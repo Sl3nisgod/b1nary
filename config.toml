@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/"
+baseURL = "https://b1narys.netlify.app"
 languageCode = "en-us"
 title = "B1nary"
 theme = "liva-hugo-master"
