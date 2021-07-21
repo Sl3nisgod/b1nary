@@ -7,7 +7,7 @@ draft: false
 image: "img/profile-photo.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Sono uno studente italiano che vede nella conosccenza dell'economia e nell'applicazione della stessa il più grande alleato per un futuro migliore"
 
 # type
 type : "about"
