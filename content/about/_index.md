@@ -18,7 +18,7 @@ type : "about"
 
 Sono uno studente italiano che crede nella parità di diritti per tutte le persone indifferentemente dal loro reddito o dal loro orientamento sessuale.
 
-Vedo nell'economia e nella conoscenza della stessa soprattutto nell'applicazione della teoria MMT (Modern Monetary Teory) un grande alleato per conseguire un sistema meritocratico ma al contempo che garantisca ad ogni individuo le medesime possibilità di partenza.
+Vedo nell'economia e nella conoscenza della stessa soprattutto nell'applicazione della teoria MMT (Modern Monetary Theory) un grande alleato per conseguire un sistema meritocratico ma al contempo che garantisca ad ogni individuo le medesime possibilità di partenza.
 
 ##### Libri Preferiti
 
