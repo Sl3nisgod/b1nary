@@ -17,7 +17,7 @@ tags:
   - "Tech"
 
 # post type
-type: "featured"
+type: "post"
 ---
 ## Cos’e l’HTML?
 
