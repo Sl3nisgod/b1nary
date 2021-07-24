@@ -80,6 +80,7 @@ disqusShortname = ""
 [params]
 logo = "img/logo.png"
 home = "Home"
+favicon = "/static/img/favicon.ico"
 # Meta data
 description = "Informazioni su Finanza personale e Tecnologia"
 author = "Matteo Piana"
